@@ -2,7 +2,7 @@
 ## _Feel Safe Everywhere_
 
 
-Women Safety App is user friendly application built in Android Studio using Java.
+Rapcure App is user friendly application built in Android Studio using Java.
 It is simple to implement and easy to understand.
 
 
@@ -10,16 +10,15 @@ It is simple to implement and easy to understand.
 
 - Easy to implement
 - Easy to understand
-- Shake detector
-- Shake device to send SOS to registered mobile
-- Sends Last Known Location to registered mobile
+- Auto-SMS sender which will send the “In Danger” message
+- Sends msg to registered mobile number.
 
 #### Prerequisites :
 - Android Studio
 - Basic knowledge about Firebase Authentication and Realtime database.
 ## Build and Run Application
 
-###### Women Safety Application requires Android Oreo or newer version to run.
+###### Rapcure Application requires Android Oreo or newer version to run.
 Follow this steps to get Working Project!
 ```
 Clone this repository or download file
